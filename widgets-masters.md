@@ -1,8 +1,8 @@
-# 部件库和 Masters
+# Widgets 和 Masters
 添加，编辑和设计小部件。然后，把它们（部件）转换到一个 Master， 这样你就能集中管理和重用整个设计。
 
 ## 添加一个按钮形状和设置鼠标悬停的风格
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/widgetsmasters1.png)
+![image](/images/widgetsmasters1.png)
 
 ### 1 添加一个按钮形状
 拖动“部件库”窗口的按钮形状并将它放在设计区域。
@@ -14,7 +14,7 @@
 勾选“粗体”和“填充颜色”选项。然后选择灰色填充颜色。最后，点击“OK”。
 
 ## 复制并放置按钮形状
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/widgetsmasters2.png)
+![image](/images/widgetsmasters2.png)
 
 ### 1 拖住复制
 按住 [Ctrl] 键并拖动复制部件。如果你是使用 Mac 系统，则按住 [Option] 键。  
@@ -30,7 +30,7 @@
 选择，然后如图所示给每个按钮命名。按钮的名字应该匹配站点地图中的页面。
 
 ## 将按钮形状转移到 Master
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/widgetsmasters3.png)
+![image](/images/widgetsmasters3.png)
 
 ### 1 选择按钮形状
 单击拖动选择所有（四个）按钮。
@@ -48,7 +48,7 @@
 点击“继续”按钮创建你的 Master 。
 
 ## 把 Masters 放到每个页面上
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/widgetsmasters4.png)
+![image](/images/widgetsmasters4.png)
 
 ### 1 打开页面 1 
 双击站点地图中的“页面 1”在设计区域打开它。
@@ -60,7 +60,7 @@
 重复动作打开“页面 1 ”和“页面 2”，并将 Master 放到各自的页面上。
 
 ## 在 Master 上给每个按钮形状添加链接
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/widgetsmasters5.png)
+![image](/images/widgetsmasters5.png)
 
 ### 1 双击打开 Master 
 双击打开“Navigation Header” Master。
