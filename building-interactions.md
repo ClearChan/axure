@@ -2,7 +2,7 @@
 点击启用一个按钮形状，使用编辑器设置关注文本框。然后，当页面加载的时，使用页面的 OnPageLoad 事件把焦点放到文本框上。
 
 ## 添加一个按钮形状和两个文本框
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions1.png)
+![images](/images/buildinginteractions1.png)
 
 ### 1 添加一个按钮，两个文本框
 拖放一个按钮形状部件和两个文本框部件到设计区域上。
@@ -20,7 +20,7 @@
 将文本框命名为“TextField1”。
 
 ## 禁用第二个文本框
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions2.png)  
+![images](/images/buildinginteractions2.png)  
 
 ### 1 编辑提示文本
 将第二个文本框部件编辑提示文本读作“Text Field 2”。
@@ -32,8 +32,8 @@
 继续选择文本框并命名为“Textfield2”。
 
 ## 单击按钮禁用第一个文本框
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions3-1.png)  
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions3-2.png)  
+![images](/images/buildinginteractions3-1.png)  
+![images](/images/buildinginteractions3-2.png)  
 
 ### 1 选择 Button1
 单击选择“Swap Focus”部件。
@@ -51,7 +51,7 @@
 我们在下一步将在同一案例中继续添加另一个动作。
 
 ## 启用第二个文本框
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions4.png)
+![images](/images/buildinginteractions4.png)
 
 ### 1 添加启用部件动作
 同一案件中通过点击“启用”添加另一个动作。
@@ -63,7 +63,7 @@
 我们还没完全完成这个案件。下一步，我们将添加第三个动作。
 
 ## 第二个文本框设置关注
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions5.png)
+![images](/images/buildinginteractions5.png)
 
 ### 1 添加设置关注动作
 在同一案件下通过点击“关注”添加另一个动作。
@@ -78,8 +78,8 @@
 点击“OK”按钮确认所有的改变。
 
 ## 当页面下载时设置关注 Text Field 1
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions6-1.png)  
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/buildinginteractions6-2.png)
+![images](/images/buildinginteractions6-1.png)  
+![images](/images/buildinginteractions6-2.png)
 
 ### 1 添加一个 Case "OnPageLoad"
 在下方“页面交互”选项双击“OnPageLoad”事件。
