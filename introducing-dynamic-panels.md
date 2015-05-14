@@ -3,7 +3,7 @@
 
 ## 添加一张图片和一个按钮形状
 [下载“AxureBikePics.zip”](http://bit.ly/SP0LrH)并解压缩文件夹的图片在你的计算机上。如果你喜欢你可以用自己的图像。
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/introducingdynamicpanels1.png)
+![images](/images/introducingdynamicpanels1.png)
 
 ### 1 下载和解压
 [下载“AxureBikePics.zip”](http://bit.ly/SP0LrH)并解压文件夹到你的计算机上。
@@ -19,7 +19,7 @@
 在按钮形状上编辑文本读作“Next”。
 
 ## 转换到动态面板和添加状态
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/introducingdynamicpanels2.png)
+![images](/images/introducingdynamicpanels2.png)
 
 ### 1 转换为动态面板
 右键单击图像部件并选择“转换为动态面板”。
@@ -31,7 +31,7 @@
 轻轻双击标注三个状态“BikeLeft”，“BikeMiddle”和“BikeRight”。
 
 ## 为每一种状态添加一张图片
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/introducingdynamicpanels3.png)
+![images](/images/introducingdynamicpanels3.png)
 
 ### 1 打开状态 BikeMiddle 
 在“部件管理器”窗口双击“BikeMiddle”状态让它显示在设计区域。
@@ -45,7 +45,7 @@
 重复步骤1-3将第三张图片放到“BikeRight”状态。
 
 ##  通过点击 Next 在面板显示下一个状态
-![images](https://raw.githubusercontent.com/ClearChan/axure/master/images/introducingdynamicpanels4.png)
+![images](/images/introducingdynamicpanels4.png)
 
 ### 1 选择 Next 按钮
 在主页上选择“Next”按钮形状部件。
