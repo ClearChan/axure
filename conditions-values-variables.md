@@ -2,7 +2,7 @@
 创建“条件”,以检查一个文本字段中的文本是否是空白,基于输入链接到相应的页面。 使用一个变量来存储文本框输入的文本。然后,使用变量设置部件在下一个页面上的文本上。
 
 ## 添加一个文本框和一个按钮形状
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv1.png)
+![image](/images/conditionsvv1.png)
 ### 1 添加文本框和按钮
 放置一个文本框部件和一个按钮形状部件到设计区域。
 ### 2 命名文本框
@@ -13,7 +13,7 @@
 选择“LogInButton”，双击它的 OnClick 事件打开“编辑器”
 
 ## 添加一个条件去检查文本框是否为不空
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv2.png)
+![image](/images/conditionsvv2.png)
 ### 1 点击添加条件选项
 点击“添加条件”右边的“名称”字段来打开“条件生成器”。
 ### 2 设置条件的值
@@ -29,7 +29,7 @@
 
 
 ## 将文本框的值设置为 ONLOADVARIABLE 
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv3.png)
+![image](/images/conditionsvv3.png)
 ### 1 添加设置变量动作
 在“编辑器”中，添加动作到“设置变量值”。
 ### 2 选择 OnLoad Variable
@@ -43,7 +43,7 @@
 
 
 ## 打开页面 1 添加动作 
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv4.png)
+![image](/images/conditionsvv4.png)
 ### 1 为 Open Link 添加动作
 同一案件中通过点击“打开链接”添加另一个动作。
 ### 2 选择“页面 1”
@@ -53,8 +53,8 @@
 
 
 ## 当文本框为空时添加第二个案件 
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv5-1.png)
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv5-2.png)
+![image](/images/conditionsvv5-1.png)
+![image](/images/conditionsvv5-2.png)
 ### 1 添加第二个案件
 选择“LogInButton”再一次双击 OnClick 事件。这个将打开“编辑器”的“案例 2”。
 ### 2 为 Open Link 添加动作
@@ -66,7 +66,7 @@
 
 
 ## 添加一个矩形到页面 1
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv6.png)
+![image](/images/conditionsvv6.png)
 ### 1 打开页面 1
 双击站点地图中的“页面 1”在设计区域打开它。
 ### 2 添加矩形部件
@@ -78,7 +78,7 @@
 
 
 ## 当页面加载时设置矩形的文本
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv7.png)
+![image](/images/conditionsvv7.png)
 ### 1 添加设置文本动作
 选择“设置文本”动作。
 ### 2 选择 WelcomeMessage
@@ -88,7 +88,7 @@
 
 
 ## 将 ONLOADVARIABLE 放进欢迎信息中
-![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/conditionsvv8.png)
+![image](/images/conditionsvv8.png)
 ### 1 输入欢迎文本
 输入文本“Welcome， ”。包括逗号和空格。
 ### 2 在下拉列表框中选择 OnLoadVariable 
