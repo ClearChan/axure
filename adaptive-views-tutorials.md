@@ -3,7 +3,7 @@
   
 ![image](https://raw.githubusercontent.com/ClearChan/axure/master/images/adaptivetutorial1.png)
 ### 步骤 1 ：选择自定义图标
-首先，打开 DIYAdaptiveTutorial.rp 。  
+首先，打开 [DIYAdaptiveTutorial.rp](/downloads/DIYAdaptiveTutorial.rp) 。  
 
 在这个例子中，我们将创建一个简单的自定义布局，当浏览器的大小比 768 px 小时自动更改。  
 
